@@ -1,7 +1,7 @@
 
 ### Hola soy Leonardo Rodrigues
 📌 Desarrollador Java | Full Stack | Junior - Generation Brasil <br>
-📌 Estudiando Java - MySQL - HTML5 - CSS3 - JavaScript - Lógica de programação <br><br><br>
+📌 Estudiando Java - MySQL - HTML5 - CSS3 - JavaScript - Lógica de programação <br>
 
 ### Olá sou Leonardo Rodrigues 
 📌 Desenvolvedor Java | Full Stack | Junior - Generation Brasil <br>
@@ -14,6 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo0908&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
+  ## Mis skills :
   ## Minhas skills :
   <div style="display: inline_block">
   <img align="center" alt="Leo-Java" height="40" width="45" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
@@ -22,6 +23,7 @@
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
+  ## Mis contactos :  
   ## Meus contatos : 
   <div>
 
@@ -30,7 +32,8 @@
   <a href="https://www.linkedin.com/in/leosouzarodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23008000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   </div>
-
+   
+   ## :technologist: Visitas en mi perfil
    ## :technologist: Visitas no meu perfil  <br>
   <p align="center"> 
   <img alingn="center" src="https://profile-counter.glitch.me/Leonardo E S Rodrigues/count.svg" />
