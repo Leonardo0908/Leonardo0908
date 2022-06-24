@@ -1,11 +1,11 @@
 
 ### Hola soy Leonardo Rodrigues
 📌 Desarrollador Java | Full Stack | Junior - Generation Brasil <br>
-📌 Estudiando Java - MySQL - HTML5 - CSS3 - JavaScript - Lógica de programação <br>
+📌 Estudiando Java - HTML5 - CSS3 - JavaScript - Angular  - React - Lógica de programação <br>
 
 ### Olá sou Leonardo Rodrigues 
 📌 Desenvolvedor Java | Full Stack | Junior - Generation Brasil <br>
-📌 Estudando  Java - MySQL - HTML5 - CSS3 - JavaScript - Lógica de programação <br>  
+📌 Estudando  Java - HTML5 - CSS3 - JavaScript - Angular - React - Lógica de programação <br>  
   
  
   <div align="center">
