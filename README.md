@@ -1,4 +1,4 @@
-### Hi, I'm Leonardo Rodrigues 
+### Hi there! I'm Leonardo Rodrigues 
 📌 Developer Java | Full Stack | Junior - Generation Brasil <br>
 📌 Studying  Java - JavaScript - HTML5 - CSS3 - JavaScript - Angular - React - Programming logic <br>  
   
